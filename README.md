@@ -8,4 +8,4 @@ Animation:
 Flag spins around y axis when correctly selected, and the rest of the flag rendered with opacity of 0.75.
 
 <br><br>
-Please note: not all of the code written here is my own. Most of the code are from https://www.hackingwithswift.com/.
+Related links: https://www.hackingwithswift.com/.
